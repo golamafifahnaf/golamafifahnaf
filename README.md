@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Golam Afif Ahnaf</h1>
-<h3 align="center">A beginner Competitive Programmer and Proramming Enthusisast</h3>
+<h3 align="center">A beginner Competitive Programmer and Programming Enthusiast</h3>
 
 ---
 
